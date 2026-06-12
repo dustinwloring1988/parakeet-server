@@ -1,5 +1,16 @@
+<p align="center">
+  <img src="public/cover.png" alt="Parakeet TDT Cover" width="600"/>
+</p>
+
 # Parakeet TDT Transcription with ONNX Runtime
 
+<p align="center">
+  <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-Ready-blue?logo=docker" alt="Docker Ready"></a>
+  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" alt="Python 3.10+"></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://img.shields.io/badge/FastAPI-0.115%2B-009688?logo=fastapi" alt="FastAPI"></a>
+  <a href="https://onnxruntime.ai"><img src="https://img.shields.io/badge/ONNX%20Runtime-1.26-00518D?logo=nvidia" alt="ONNX Runtime"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"></a>
+</p>
 
 **Parakeet TDT** is a high-performance implementation of NVIDIA's [Parakeet TDT 0.6B v3](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3) model using [ONNX Runtime](https://onnxruntime.ai/), designed for ultra-fast inference on CPU.
 

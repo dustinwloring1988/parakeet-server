@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   # GPU deployment (default; requires NVIDIA Container Toolkit)
   parakeet-gpu:
